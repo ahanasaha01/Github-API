@@ -1,5 +1,4 @@
 # Github-API
-KOSS Selections Task - **AHANA SAHA**
 
 I created 2 separate files,i.e., 2 CLI each for one of the inputs needed by the user for developing the GITHUB user app.\
 The first one has 1 html file named github.html and 1 js file named script.js.\
