@@ -35,7 +35,7 @@ D.Inside this js file, I have first stored the username and then fetched all the
 E.I accessed all the metadata regarding the username's repositories and displayed all these on the CLI.\
 \
 \
-This task has been a great learning experience for me. I got to learn about many new things and it was a pleasure working on this.Thank you for this opportunity.
+
 
 
 
